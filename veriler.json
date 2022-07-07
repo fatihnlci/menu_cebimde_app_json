@@ -23,24 +23,10 @@
     },
     {
       "id" : 4,
-      "menuAdi" : "Nöbetçi Fırın",
+      "menuAdi" : "Özgen Kahve",
       "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
-      "url" : "https://menucebimde.com/?menuid=EGM4X7"
-    },
-    {
-      "id" : 5,
-      "menuAdi" : "Piraye",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
-      "url" : "https://menucebimde.com/?menuid=JBF4NC"
-    },
-    {
-      "id" : 6,
-      "menuAdi" : "Weus",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
-      "url" : "https://menucebimde.com/?menuid=MGXAKF"
+      "img" : "https://menucebimde.com/_imgs/550AK7-cover-9JCH6TU2A9IKGLWWOA5W.JPG",
+      "url" : "https://menucebimde.com/?menuid=550AK7"
     }
   ]
 }
