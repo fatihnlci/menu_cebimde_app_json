@@ -27,18 +27,26 @@
     },
     {
       "id" : 2,
-      "menuAdi" : "Nöbetçi Fırın",
+      "menuAdi" : "Yahyazade",
       "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
-      "url" : "https://menucebimde.com/?menuid=EGM4X7",
+      "img" : "https://menucebimde.com/_imgs/CSMIXZ-cover-5BHGYDLF57OSHD1GK25Q.JPEG",
+      "url" : "https://menucebimde.com/?menuid=CSMIXZ",
       "kurye" : true
     },
     {
       "id" : 2,
-      "menuAdi" : "Weus",
+      "menuAdi" : "Zeynel",
       "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
-      "url" : "https://menucebimde.com/?menuid=MGXAKF",
+      "img" : "https://menucebimde.com/_imgs/0LKC7M-cover-DO6VTOI758DB788FV3U5.JPG",
+      "url" : "https://menucebimde.com/?menuid=0LKC7M",
+      "kurye" : true
+    },
+    {
+      "id" : 2,
+      "menuAdi" : "Özgen Plus",
+      "sehir" : "Bursa",
+      "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
+      "url" : "https://menucebimde.com/?menuid=F2MT06",
       "kurye" : true
     },
     {
