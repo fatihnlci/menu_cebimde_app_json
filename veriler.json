@@ -1,39 +1,61 @@
 {
   "menu" : [
     {
-      "id" : 1,
-      "menuAdi" : "Smart Burger",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/XQ4UT7-cover-CR4KJHABH7PORHNL3KLF.JPG",
-      "url" : "https://menucebimde.com/?menuid=XQ4UT7"
-    },
-    {
-      "id" : 2,
-      "menuAdi" : "Piraye",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
-      "url" : "https://menucebimde.com/?menuid=JBF4NC"
-    },
-    {
-      "id" : 3,
-      "menuAdi" : "Weus",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
-      "url" : "https://menucebimde.com/?menuid=MGXAKF"
-    },
-    {
-      "id" : 4,
-      "menuAdi" : "Özgen Kahve",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/550AK7-cover-9JCH6TU2A9IKGLWWOA5W.JPG",
-      "url" : "https://menucebimde.com/?menuid=550AK7"
-    },
-    {
-      "id" : 5,
-      "menuAdi" : "Nöbetçi Fırın",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
-      "url" : "https://menucebimde.com/?menuid=EGM4X7"
+      "categories" : [
+        {
+          "id" : 1,
+          "title" : "Bana En Yakın Menüler"
+        },
+        {
+          "id" : 2,
+          "title" : "En Yeni Menüler"
+        }
+      ],
+      "allMenu" : [
+        {
+          "id" : 1,
+          "menuAdi" : "Nöbetçi Fırın",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
+          "url" : "https://menucebimde.com/?menuid=EGM4X7",
+          "kurye" : true
+        },
+        {
+          "id" : 1,
+          "menuAdi" : "Piraye",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
+          "url" : "https://menucebimde.com/?menuid=JBF4NC"
+        },
+        {
+          "id" : 1,
+          "menuAdi" : "Weus",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
+          "url" : "https://menucebimde.com/?menuid=MGXAKF"
+        },
+        {
+          "id" : 2,
+          "menuAdi" : "Nöbetçi Fırın",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
+          "url" : "https://menucebimde.com/?menuid=EGM4X7"
+        },
+        {
+          "id" : 2,
+          "menuAdi" : "Piraye",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
+          "url" : "https://menucebimde.com/?menuid=JBF4NC"
+        },
+        {
+          "id" : 2,
+          "menuAdi" : "Weus",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
+          "url" : "https://menucebimde.com/?menuid=MGXAKF"
+        }
+      ]
     }
   ]
 }
