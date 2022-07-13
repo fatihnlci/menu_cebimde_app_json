@@ -27,6 +27,13 @@
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/550AK7-cover-9JCH6TU2A9IKGLWWOA5W.JPG",
       "url" : "https://menucebimde.com/?menuid=550AK7"
+    },
+    {
+      "id" : 5,
+      "menuAdi" : "Smart Burger",
+      "sehir" : "Bursa",
+      "img" : "https://menucebimde.com/_imgs/XQ4UT7-cover-CR4KJHABH7PORHNL3KLF.JPG",
+      "url" : "https://menucebimde.com/?menuid=XQ4UT7"
     }
   ]
 }
