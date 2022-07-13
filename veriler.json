@@ -2,10 +2,10 @@
   "menu" : [
     {
       "id" : 1,
-      "menuAdi" : "Nöbetçi Fırın",
+      "menuAdi" : "Smart Burger",
       "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
-      "url" : "https://menucebimde.com/?menuid=EGM4X7"
+      "img" : "https://menucebimde.com/_imgs/XQ4UT7-cover-CR4KJHABH7PORHNL3KLF.JPG",
+      "url" : "https://menucebimde.com/?menuid=XQ4UT7"
     },
     {
       "id" : 2,
@@ -30,10 +30,10 @@
     },
     {
       "id" : 5,
-      "menuAdi" : "Smart Burger",
+      "menuAdi" : "Nöbetçi Fırın",
       "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/XQ4UT7-cover-CR4KJHABH7PORHNL3KLF.JPG",
-      "url" : "https://menucebimde.com/?menuid=XQ4UT7"
+      "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
+      "url" : "https://menucebimde.com/?menuid=EGM4X7"
     }
   ]
 }
