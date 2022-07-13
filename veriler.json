@@ -35,14 +35,6 @@
     },
     {
       "id" : 2,
-      "menuAdi" : "Piraye",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
-      "url" : "https://menucebimde.com/?menuid=JBF4NC",
-      "kurye" : false
-    },
-    {
-      "id" : 2,
       "menuAdi" : "Weus",
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
@@ -63,14 +55,6 @@
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/8YO84U-cover-AMR705CC72ARE4ETALYR.JPG",
       "url" : "https://menucebimde.com/?menuid=8YO84U",
-      "kurye" : false
-    },
-    {
-      "id" : 3,
-      "menuAdi" : "Weus",
-      "sehir" : "Bursa",
-      "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
-      "url" : "https://menucebimde.com/?menuid=MGXAKF",
       "kurye" : false
     }
   ]
