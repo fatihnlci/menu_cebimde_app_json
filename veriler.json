@@ -1,5 +1,5 @@
 {
-  "category1" : [
+  "menu1" : [
     {
       "id" : 1,
       "menuAdi" : "Nöbetçi Fırın",
@@ -33,7 +33,7 @@
       "kurye" : true
     }
   ],
-  "category2" : [
+  "menu2" : [
     {
       "id" : 3,
       "menuAdi" : "Özgen Plus",
