@@ -35,7 +35,7 @@
   ],
   "category2" : [
     {
-      "id" : 3,
+      "id" : 2,
       "menuAdi" : "Özgen Plus",
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
@@ -43,7 +43,7 @@
       "kurye" : true
     },
     {
-      "id" : 3,
+      "id" : 2,
       "menuAdi" : "Usta Et",
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/GIN1PR-cover-TFQRIND7HA1YTFH9PQP8.JPG",
@@ -51,7 +51,7 @@
       "kurye" : true
     },
     {
-      "id" : 3,
+      "id" : 2,
       "menuAdi" : "Özdemiroğlu",
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/8YO84U-cover-AMR705CC72ARE4ETALYR.JPG",
@@ -59,7 +59,7 @@
       "kurye" : false
     },
     {
-      "id" : 3,
+      "id" : 2,
       "menuAdi" : "Zeynel",
       "sehir" : "Bursa",
       "img" : "https://menucebimde.com/_imgs/0LKC7M-cover-DO6VTOI758DB788FV3U5.JPG",
