@@ -1,4 +1,17 @@
-{
+{ "categories" : [
+  {
+    "id" : 1,
+    "ctgrName" : "Bana En Yakın Menüler"
+  },
+  {
+    "id" : 2,
+    "ctgrName" : "En Yeni Menüler"
+  },
+  {
+    "id" : 3,
+    "ctgrName" : "Kahvaltı Menüleri"
+  }
+],
   "menu" : [
     {
       "id" : 1,
