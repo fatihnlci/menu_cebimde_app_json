@@ -1,0 +1,46 @@
+{
+  "menu" : [
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 1,
+      "category" : [
+        {
+          "id" : 1,
+          "menuAdi" : "Nöbetçi Fırın",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
+          "url" : "https://menucebimde.com/?menuid=EGM4X7",
+          "kurye" : false
+        }
+      ]
+    },
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 2,
+      "category" : [
+        {
+          "id" : 2,
+          "menuAdi" : "Özgen Plus",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
+          "url" : "https://menucebimde.com/?menuid=F2MT06",
+          "kurye" : true
+        }
+      ]
+    },
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 3,
+      "category" : [
+        {
+          "id" : 3,
+          "menuAdi" : "Ramazan Usta",
+          "sehir" : "Bursa",
+          "img" : "https://menucebimde.com/_imgs/KSH63W-cover-TRMHBNAUEV27P57HVJ72.PNG",
+          "url" : "https://menucebimde.com/?menuid=KSH63W",
+          "kurye" : true
+        }
+      ]
+    }
+  ]
+}
