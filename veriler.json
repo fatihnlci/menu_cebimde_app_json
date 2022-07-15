@@ -1,4 +1,18 @@
 {
+  "categories" : [
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 1
+    },
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 2
+    },
+    {
+      "ctgryName" : "Bana En Yakın Menüler",
+      "ctgrId" : 3
+    }
+  ],
   "category1" : [
     {
       "id" : 1,
