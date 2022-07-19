@@ -1,5 +1,19 @@
-{
-  "category" : [
+{ 
+  "categories" : [
+  {
+    "id" : "1",
+    "ctgrName" : "Bana En Yakın Menüler"
+  },
+  {
+    "id" : "2",
+    "ctgrName" : "Bana En Yakın Menüler"
+  },
+  {
+    "id" : "2",
+    "ctgrName" : "Bana En Yakın Menüler"
+  }
+],
+  "menus" : [
     {
       "id" : 1,
       "menuAdi" : "Nöbetçi Fırın",
