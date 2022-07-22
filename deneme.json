@@ -29,6 +29,22 @@
     {
       "id" : 3,
       "ctgrName" : "Kahvaltı Menüleri"
+    },
+    {
+      "id" : 4,
+      "ctgrName" : "En Popüler Menüler"
+    },
+    {
+      "id" : 5,
+      "ctgrName" : "Öğrenci Menüleri"
+    },
+    {
+      "id" : 6,
+      "ctgrName" : "7/24 Menüler"
+    },
+    {
+      "id" : 7,
+      "ctgrName" : "Paket Servis Menüler"
     }
   ],
   "menus" : [
