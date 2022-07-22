@@ -179,6 +179,54 @@
       "masadanSiparis" : true,
       "telno" : "0555",
       "adres" : ""
+    },
+    {
+      "id" : 4,
+      "menuAdi" : "Özdemiroğlu",
+      "il" : "Bursa",
+      "ilce" : "Nilüfer",
+      "img" : "https://menucebimde.com/_imgs/8YO84U-cover-AMR705CC72ARE4ETALYR.JPG",
+      "url" : "https://menucebimde.com/?menuid=8YO84U",
+      "kurye" : false,
+      "masadanSiparis" : true,
+      "telno" : "0555",
+      "adres" : ""
+    },
+    {
+      "id" : 4,
+      "menuAdi" : "Zeynel",
+      "il" : "Bursa",
+      "ilce" : "Nilüfer",
+      "img" : "https://menucebimde.com/_imgs/0LKC7M-cover-DO6VTOI758DB788FV3U5.JPG",
+      "url" : "https://menucebimde.com/?menuid=0LKC7M",
+      "kurye" : true,
+      "masadanSiparis" : false,
+      "telno" : "0555",
+      "adres" : ""
+    },
+    {
+      "id" : 4,
+      "menuAdi" : "Özgen Plus",
+      "il" : "Bursa",
+      "ilce" : "Nilüfer",
+      "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
+      "url" : "https://menucebimde.com/?menuid=F2MT06",
+      "kurye" : true,
+      "masadanSiparis" : false,
+      "telno" : "0555",
+      "adres" : ""
+    },
+    {
+      "id" : 4,
+      "menuAdi" : "Usta Et",
+      "il" : "Bursa",
+      "ilce" : "Nilüfer",
+      "img" : "https://menucebimde.com/_imgs/GIN1PR-cover-TFQRIND7HA1YTFH9PQP8.JPG",
+      "url" : "https://menucebimde.com/?menuid=GIN1PR",
+      "kurye" : true,
+      "masadanSiparis" : true,
+      "telno" : "0555",
+      "adres" : ""
     }
   ]
 }
