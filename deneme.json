@@ -47,7 +47,7 @@
     {
       "id" : 1,
       "menuAdi" : "Piraye",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
       "url" : "https://menucebimde.com/?menuid=JBF4NC",
@@ -59,7 +59,7 @@
     {
       "id" : 1,
       "menuAdi" : "Weus",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
       "url" : "https://menucebimde.com/?menuid=MGXAKF",
@@ -71,7 +71,7 @@
     {
       "id" : 1,
       "menuAdi" : "Yahyazade",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/CSMIXZ-cover-5BHGYDLF57OSHD1GK25Q.JPEG",
       "url" : "https://menucebimde.com/?menuid=CSMIXZ",
@@ -83,7 +83,7 @@
     {
       "id" : 2,
       "menuAdi" : "Özgen Plus",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
       "url" : "https://menucebimde.com/?menuid=F2MT06",
@@ -95,7 +95,7 @@
     {
       "id" : 2,
       "menuAdi" : "Usta Et",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/GIN1PR-cover-TFQRIND7HA1YTFH9PQP8.JPG",
       "url" : "https://menucebimde.com/?menuid=GIN1PR",
@@ -107,7 +107,7 @@
     {
       "id" : 2,
       "menuAdi" : "Özdemiroğlu",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/8YO84U-cover-AMR705CC72ARE4ETALYR.JPG",
       "url" : "https://menucebimde.com/?menuid=8YO84U",
@@ -119,7 +119,7 @@
     {
       "id" : 2,
       "menuAdi" : "Zeynel",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/0LKC7M-cover-DO6VTOI758DB788FV3U5.JPG",
       "url" : "https://menucebimde.com/?menuid=0LKC7M",
@@ -131,7 +131,7 @@
     {
       "id" : 3,
       "menuAdi" : "Ramazan Usta",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/KSH63W-cover-TRMHBNAUEV27P57HVJ72.PNG",
       "url" : "https://menucebimde.com/?menuid=KSH63W",
@@ -143,7 +143,7 @@
     {
       "id" : 3,
       "menuAdi" : "Özgen Podyum",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/550AK7-cover-9JCH6TU2A9IKGLWWOA5W.JPG",
       "url" : "https://menucebimde.com/?menuid=550AK7",
@@ -155,7 +155,7 @@
     {
       "id" : 3,
       "menuAdi" : "Saklı Koy",
-      "sehir" : "Bursa",
+      "il" : "Bursa",
       "ilce" : "Nilüfer",
       "img" : "https://menucebimde.com/_imgs/TQTJ8P-cover-TFMJZ2R70ADQFY6UV92K.JPG",
       "url" : "https://menucebimde.com/?menuid=TQTJ8P",
