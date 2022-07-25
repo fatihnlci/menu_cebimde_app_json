@@ -1,5 +1,4 @@
 {
-  "menus" : [
     {
       "id" : 1,
       "menuAdi" : "Nöbetçi Cafe",
@@ -180,5 +179,4 @@
       "telno" : "0555",
       "adres" : ""
     }
-  ]
 }
