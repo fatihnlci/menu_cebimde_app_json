@@ -60,7 +60,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 1,
@@ -74,7 +75,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 1,
@@ -88,24 +90,11 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 1,
-      "menuAdi" : "Yahyazade",
-      "il" : "Bursa",
-      "ilce" : "Nilüfer",
-      "img" : "https://menucebimde.com/_imgs/CSMIXZ-cover-5BHGYDLF57OSHD1GK25Q.JPEG",
-      "url" : "https://menucebimde.com/?menuid=CSMIXZ",
-      "kurye" : false,
-      "masadanSiparis" : false,
-      "telno" : "0555",
-      "adres" : "",
-      "lat" : 40.2122755,
-      "lon" : 28.9835053
-    },
-    {
-      "id" : 2,
       "menuAdi" : "Özgen Plus",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -116,7 +105,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 2,
@@ -130,7 +120,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 2,
@@ -144,7 +135,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 2,
@@ -158,7 +150,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 3,
@@ -172,7 +165,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 3,
@@ -186,7 +180,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 3,
@@ -200,7 +195,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 4,
@@ -214,7 +210,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 4,
@@ -228,7 +225,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 4,
@@ -242,7 +240,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     },
     {
       "id" : 4,
@@ -256,7 +255,8 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053
+      "lon" : 28.9835053,
+      "distance" : 0
     }
   ]
 }
