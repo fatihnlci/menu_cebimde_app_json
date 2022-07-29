@@ -58,7 +58,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 1,
@@ -70,7 +72,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 1,
@@ -82,7 +86,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 1,
@@ -94,7 +100,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 2,
@@ -106,7 +114,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 2,
@@ -118,7 +128,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 2,
@@ -130,7 +142,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 2,
@@ -142,7 +156,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 3,
@@ -154,7 +170,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 3,
@@ -166,7 +184,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 3,
@@ -178,7 +198,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 4,
@@ -190,7 +212,9 @@
       "kurye" : false,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 4,
@@ -202,7 +226,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 4,
@@ -214,7 +240,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     },
     {
       "id" : 4,
@@ -226,7 +254,9 @@
       "kurye" : true,
       "masadanSiparis" : false,
       "telno" : "0555",
-      "adres" : ""
+      "adres" : "",
+      "lat" : 40.2122755,
+      "lon" : 28.9835053
     }
   ]
 }
