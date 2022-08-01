@@ -22,7 +22,7 @@
     "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
     "url" : "https://menucebimde.com/?menuid=JBF4NC",
     "kurye" : true,
-    "masadanSiparis" : false,
+    "masadanSiparis" : true,
     "telno" : "0555",
     "adres" : "",
     "lat" : 49.2122755,
