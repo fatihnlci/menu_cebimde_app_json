@@ -1,6 +1,8 @@
 [
   {
     "id" : 1,
+    "ctgrId" : 1,
+    "ctgrId" : 4,
     "menuAdi" : "Nöbetçi Cafe",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -16,6 +18,8 @@
   },
   {
     "id" : 2,
+    "ctgrId" : 1,
+    "ctgrId" : 4,
     "menuAdi" : "Piraye",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -31,6 +35,7 @@
   },
   {
     "id" : 3,
+    "ctgrId" : 1,
     "menuAdi" : "Weus",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -46,6 +51,7 @@
   },
   {
     "id" : 4,
+    "ctgrId" : 1,
     "menuAdi" : "Yahyazade",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -61,6 +67,7 @@
   },
   {
     "id" : 5,
+    "ctgrId" : 2,
     "menuAdi" : "Özgen Plus",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -76,6 +83,7 @@
   },
   {
     "id" : 6,
+    "ctgrId" : 2,
     "menuAdi" : "Usta Et",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -91,6 +99,7 @@
   },
   {
     "id" : 7,
+    "ctgrId" : 2,
     "menuAdi" : "Özdemiroğlu",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -106,6 +115,7 @@
   },
   {
     "id" : 8,
+    "ctgrId" : 3,
     "menuAdi" : "Zeynel",
     "il" : "Bursa",
     "ilce" : "İnegöl",
@@ -121,6 +131,7 @@
   },
   {
     "id" : 9,
+    "ctgrId" : 3,
     "menuAdi" : "Ramazan Usta",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -136,6 +147,7 @@
   },
   {
     "id" : 10,
+    "ctgrId" : 3,
     "menuAdi" : "Özgen Podyum",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
@@ -151,6 +163,7 @@
   },
   {
     "id" : 11,
+    "ctgrId" : 4,
     "menuAdi" : "Saklı Koy",
     "il" : "Bursa",
     "ilce" : "Nilüfer",
