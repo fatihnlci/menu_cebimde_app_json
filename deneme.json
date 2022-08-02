@@ -50,6 +50,7 @@
   "menus" : [
     {
       "id" : 1,
+      "ctgrId" : 1,
       "menuAdi" : "Nöbetçi Cafe",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -64,7 +65,8 @@
       "distance" : 0
     },
     {
-      "id" : 1,
+      "id" : 2,
+      "ctgrId" : 1,
       "menuAdi" : "Piraye",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -79,7 +81,8 @@
       "distance" : 0
     },
     {
-      "id" : 1,
+      "id" : 3,
+      "ctgrId" : 1,
       "menuAdi" : "Weus",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -94,7 +97,8 @@
       "distance" : 0
     },
     {
-      "id" : 1,
+      "id" : 4,
+      "ctgrId" : 1,
       "menuAdi" : "Özgen Plus",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -109,7 +113,8 @@
       "distance" : 0
     },
     {
-      "id" : 2,
+      "id" : 5,
+      "ctgrId" : 2,
       "menuAdi" : "Usta Et",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -124,7 +129,8 @@
       "distance" : 0
     },
     {
-      "id" : 2,
+      "id" : 6,
+      "ctgrId" : 2,
       "menuAdi" : "Özdemiroğlu",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -139,7 +145,8 @@
       "distance" : 0
     },
     {
-      "id" : 2,
+      "id" : 7,
+      "ctgrId" : 2,
       "menuAdi" : "Zeynel",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -154,7 +161,8 @@
       "distance" : 0
     },
     {
-      "id" : 3,
+      "id" : 8,
+      "ctgrId" : 2,
       "menuAdi" : "Ramazan Usta",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -169,7 +177,8 @@
       "distance" : 0
     },
     {
-      "id" : 3,
+      "id" : 9,
+      "ctgrId" : 3,
       "menuAdi" : "Özgen Podyum",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -184,7 +193,8 @@
       "distance" : 0
     },
     {
-      "id" : 3,
+      "id" : 10,
+      "ctgrId" : 3,
       "menuAdi" : "Saklı Koy",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -199,7 +209,8 @@
       "distance" : 0
     },
     {
-      "id" : 4,
+      "id" : 11,
+      "ctgrId" : 3,
       "menuAdi" : "Özdemiroğlu",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -214,7 +225,8 @@
       "distance" : 0
     },
     {
-      "id" : 4,
+      "id" : 12,
+      "ctgrId" : 4,
       "menuAdi" : "Zeynel",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -229,7 +241,8 @@
       "distance" : 0
     },
     {
-      "id" : 4,
+      "id" : 13,
+      "ctgrId" : 4,
       "menuAdi" : "Özgen Plus",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
@@ -244,7 +257,8 @@
       "distance" : 0
     },
     {
-      "id" : 4,
+      "id" : 14,
+      "ctgrId" : 4,
       "menuAdi" : "Usta Et",
       "il" : "Bursa",
       "ilce" : "Nilüfer",
