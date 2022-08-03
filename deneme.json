@@ -76,7 +76,7 @@
       "masadanSiparis" : false,
       "telno" : "0555",
       "adres" : "",
-      "lat" : 40.2122755,
+      "lat" : 45.2122755,
       "lon" : 28.9835053,
       "distance" : 0
     },
@@ -93,7 +93,7 @@
       "telno" : "0555",
       "adres" : "",
       "lat" : 40.2122755,
-      "lon" : 28.9835053,
+      "lon" : 25.9835053,
       "distance" : 0
     },
     {
@@ -124,8 +124,8 @@
       "masadanSiparis" : false,
       "telno" : "0555",
       "adres" : "",
-      "lat" : 40.2122755,
-      "lon" : 28.9835053,
+      "lat" : 41.2122755,
+      "lon" : 27.9835053,
       "distance" : 0
     },
     {
