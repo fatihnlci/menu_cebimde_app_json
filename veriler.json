@@ -42,7 +42,7 @@
     "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
     "url" : "https://menucebimde.com/?menuid=MGXAKF",
     "kurye" : false,
-    "masadanSiparis" : false,
+    "masadanSiparis" : true,
     "telno" : "0555",
     "adres" : "",
     "lat" : 40.224702,
