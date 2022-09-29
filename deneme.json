@@ -383,22 +383,6 @@
       "lat" : 40.2122755,
       "lon" : 28.9835053,
       "distance" : 0
-    },
-    {
-      "id" : 22,
-      "ctgrId" : 4,
-      "menuAdi" : "Özgen Plus",
-      "il" : "Bursa",
-      "ilce" : "Nilüfer",
-      "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
-      "url" : "https://menucebimde.com/?menuid=F2MT06",
-      "kurye" : true,
-      "masadanSiparis" : false,
-      "telno" : "0555",
-      "adres" : "",
-      "lat" : 40.2122755,
-      "lon" : 28.9835053,
-      "distance" : 0
     }
   ]
 }
