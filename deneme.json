@@ -271,7 +271,7 @@
       "lat" : 40.2122755,
       "lon" : 28.9835053,
       "distance" : 0
-    }
+    },
     {
       "id" : 15,
       "ctgrId" : 4,
@@ -304,7 +304,7 @@
       "lon" : 28.9835053,
       "distance" : 0
     },
-{
+    {
       "id" : 17,
       "ctgrId" : 4,
       "menuAdi" : "Zeynel",
@@ -384,7 +384,7 @@
       "lon" : 28.9835053,
       "distance" : 0
     },
-{
+    {
       "id" : 22,
       "ctgrId" : 4,
       "menuAdi" : "Özgen Plus",
