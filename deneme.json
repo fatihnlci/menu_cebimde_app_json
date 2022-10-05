@@ -95,7 +95,7 @@
     {
       "id" : 2,
       "ctgrName" : "Kahvaltı Menüleri",
-      "menu" : [
+      "menus" : [
         {
           "id" : 5,
           "ctgrId" : 2,
@@ -166,12 +166,12 @@
     {
       "id" : 3,
       "ctgrName" : "En Popüler Menüler",
-      "menu" : [9,10,11,12,13,14,15,16,17,18]
+      "menus" : [9,10,11,12,13,14,15,16,17,18]
     },
     {
       "id" : 4,
       "ctgrName" : "Öğrenci Menüleri",
-      "menu" : [19,20,21]
+      "menus" : [19,20,21]
 
     },
     {
