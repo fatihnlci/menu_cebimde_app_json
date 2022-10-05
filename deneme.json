@@ -25,23 +25,153 @@
     {
       "id" : 1,
       "ctgrName" : "En Yeni Menüler",
-      "menus" : [1,2,3,4]
+      "menu" : [
+        {
+          "id" : 1,
+          "ctgrId" : 1,
+          "menuAdi" : "Nöbetçi Cafe",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/EGM4X7-cover-4F5ASEDPHOQZYD9YY33S.JPG",
+          "url" : "https://menucebimde.com/?menuid=EGM4X7",
+          "kurye" : false,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 40.2122755,
+          "lon" : 28.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 2,
+          "ctgrId" : 1,
+          "menuAdi" : "Piraye",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/JBF4NC-cover-6694ULH1KA8P6YKMOLTQ.JPG",
+          "url" : "https://menucebimde.com/?menuid=JBF4NC",
+          "kurye" : true,
+          "masadanSiparis" : true,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 45.2122755,
+          "lon" : 28.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 3,
+          "ctgrId" : 1,
+          "menuAdi" : "Weus",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/MGXAKF-cover-ZCVGR025OMHAF95PVJ9R.JPG",
+          "url" : "https://menucebimde.com/?menuid=MGXAKF",
+          "kurye" : false,
+          "masadanSiparis" : true,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 40.2122755,
+          "lon" : 25.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 4,
+          "ctgrId" : 1,
+          "menuAdi" : "Özgen Plus",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/F2MT06-cover-WSPV9A67P9OMPMJ6YVER.PNG",
+          "url" : "https://menucebimde.com/?menuid=F2MT06",
+          "kurye" : true,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 40.2122755,
+          "lon" : 28.9835053,
+          "distance" : 0
+        }
+      ]
     },
     {
       "id" : 2,
       "ctgrName" : "Kahvaltı Menüleri",
-      "menus" : [5,6,7,8]
+      "menu" : [
+        {
+          "id" : 5,
+          "ctgrId" : 2,
+          "menuAdi" : "Usta Et",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/GIN1PR-cover-TFQRIND7HA1YTFH9PQP8.JPG",
+          "url" : "https://menucebimde.com/?menuid=GIN1PR",
+          "kurye" : true,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 41.2122755,
+          "lon" : 27.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 6,
+          "ctgrId" : 2,
+          "menuAdi" : "Özdemiroğlu",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/8YO84U-cover-AMR705CC72ARE4ETALYR.JPG",
+          "url" : "https://menucebimde.com/?menuid=8YO84U",
+          "kurye" : false,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 42.2122755,
+          "lon" : 28.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 7,
+          "ctgrId" : 2,
+          "menuAdi" : "Zeynel",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/0LKC7M-cover-DO6VTOI758DB788FV3U5.JPG",
+          "url" : "https://menucebimde.com/?menuid=0LKC7M",
+          "kurye" : true,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 40.2122755,
+          "lon" : 28.9835053,
+          "distance" : 0
+        },
+        {
+          "id" : 8,
+          "ctgrId" : 2,
+          "menuAdi" : "Ramazan Usta",
+          "il" : "Bursa",
+          "ilce" : "Nilüfer",
+          "img" : "https://menucebimde.com/_imgs/KSH63W-cover-TRMHBNAUEV27P57HVJ72.PNG",
+          "url" : "https://menucebimde.com/?menuid=KSH63W",
+          "kurye" : true,
+          "masadanSiparis" : false,
+          "telno" : "0555",
+          "adres" : "",
+          "lat" : 40.2122755,
+          "lon" : 25.9835053,
+          "distance" : 0
+        }
+      ]
 
     },
     {
       "id" : 3,
       "ctgrName" : "En Popüler Menüler",
-      "menus" : [9,10,11,12,13,14,15,16,17,18]
+      "menu" : [9,10,11,12,13,14,15,16,17,18]
     },
     {
       "id" : 4,
       "ctgrName" : "Öğrenci Menüleri",
-      "menus" : [19,20,21]
+      "menu" : [19,20,21]
 
     },
     {
