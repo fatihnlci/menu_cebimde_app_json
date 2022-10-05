@@ -20,16 +20,16 @@
   "categories" : [
     {
       "id" : 0,
-      "ctgrName" : "Bana En Yakın Menüler"
+      "ctgrName" : "Bana En Yakın Menüler2"
     },
     {
       "id" : 1,
-      "ctgrName" : "En Yeni Menüler",
+      "ctgrName" : "En Yeni Menüler2",
       "menus" : [1,2,3,4]
     },
     {
       "id" : 2,
-      "ctgrName" : "Kahvaltı Menüleri",
+      "ctgrName" : "Kahvaltı Menüleri2",
       "menus" : [5,6,7,8]
 
     },
