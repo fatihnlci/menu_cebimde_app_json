@@ -384,5 +384,40 @@
       "lon" : 28.9835053,
       "distance" : 0
     }
+  ],
+  "kategoriler" : [
+    {
+      "id" : 1,
+      "ctgrName" : "En Yeni Menüler",
+      "menus" : [1,2,3,4]
+    },
+    {
+      "id" : 2,
+      "ctgrName" : "Kahvaltı Menüleri",
+      "menus" : [5,6,7,8]
+
+    },
+    {
+      "id" : 3,
+      "ctgrName" : "En Popüler Menüler",
+      "menus" : [9,10,11,12,13,14,15,16,17,18]
+    },
+    {
+      "id" : 4,
+      "ctgrName" : "Öğrenci Menüleri",
+      "menus" : [19,20,21]
+
+    },
+    {
+      "id" : 5,
+      "ctgrName" : "7/24 Menüler",
+      "menus" : [13,5,3,9]
+
+    },
+    {
+      "id" : 6,
+      "ctgrName" : "Paket Servis Menüler",
+      "menus" : [20,7,15,16]
+    }
   ]
 }
